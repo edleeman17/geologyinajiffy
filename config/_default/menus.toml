@@ -1,0 +1,24 @@
+[[main]]
+  name = "Merch"
+  pageRef = "merch"
+  weight = 10
+
+[[main]]
+  name = "Our Videos"
+  pageRef = "categories"
+  weight = 20
+
+[[main]]
+  name = "For Students"
+  pageRef = "categories"
+  weight = 30
+
+[[main]]
+  name = "For Teachers"
+  pageRef = "categories"
+  weight = 40
+
+[[main]]
+  name = "Contact Us"
+  pageRef = "contact-us"
+  weight = 50

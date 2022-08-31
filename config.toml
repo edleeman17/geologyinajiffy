@@ -1,0 +1,5 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Geology in a Jiffy"
+theme = "geology-in-a-jiffy"
+

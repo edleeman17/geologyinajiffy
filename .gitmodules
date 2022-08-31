@@ -1,0 +1,3 @@
+[submodule "themes/geology-in-a-jiffy"]
+	path = themes/geology-in-a-jiffy
+	url = git@github.com:edleeman17/geology-in-a-jiffy.git
