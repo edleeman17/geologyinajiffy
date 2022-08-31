@@ -10,7 +10,7 @@
 
 [[main]]
   name = "For Students"
-  pageRef = "categories"
+  pageRef = "for-students"
   weight = 30
 
 [[main]]
