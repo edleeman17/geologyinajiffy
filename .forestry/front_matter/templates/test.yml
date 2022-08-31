@@ -1,4 +1,45 @@
 ---
-label: Test
+label: New Video
 hide_body: true
-fields: []
+display_field: video_title
+fields:
+- name: video_title
+  type: text
+  config:
+    required: false
+  label: Video Title
+- name: topics
+  type: tag_list
+  default: []
+  label: Topics
+- name: contents_of_the_video
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Contents of the video
+- name: includes_a_quiz
+  type: boolean
+  label: Includes a quiz
+- name: worksheet_link
+  type: text
+  config:
+    required: false
+  label: Worksheet link
+- name: teacher_answer_link
+  type: text
+  config:
+    required: false
+  label: Teacher answer link
+- name: teacher_resources
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Teacher resources
