@@ -8,6 +8,11 @@ fields:
   config:
     required: false
   label: Video Title
+- name: video_link
+  type: text
+  config:
+    required: false
+  label: Video link
 - name: topics
   type: tag_list
   default: []
