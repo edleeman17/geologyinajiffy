@@ -43,3 +43,5 @@ fields:
     schema:
       format: markdown
   label: Teacher resources
+pages:
+- content/our-videos/gorges_and_how_they_are_formed..md
